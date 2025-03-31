@@ -15,6 +15,7 @@ Write a script to simulate the raw data:
 
 ## Analysis and Reporting:
 Merge the simulated datasets
+
 Produce tables or figures to evaluate the effectiveness of each campaign
 
 ## Documentation:
@@ -25,5 +26,7 @@ The code should be well-organized, commented, and follow best coding practices.
 
 ## Evaluation Criteria:
 Realism and sophistication of the data simulation.
+
 Insightfulness and clarity of the analysis and reporting.
+
 Adherence to coding standards and quality documentation
