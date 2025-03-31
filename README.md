@@ -1,5 +1,5 @@
 ## Description
-  - Imagine the team is conducting a field experiment to assess the effectiveness of different Facebook ad campaigns in increasing COVID-19 vaccine uptake. The experiment involves two distinct ad strategies appealing to reason and emotions, respectively.
+Imagine the team is conducting a field experiment to assess the effectiveness of different Facebook ad campaigns in increasing COVID-19 vaccine uptake. The experiment involves two distinct ad strategies appealing to reason and emotions, respectively.
 
 Total participants: 5,000 across the US.
 Random assignment: 1/3 receive the first ad (reason), 1/3 the second ad (emotions), and 1/3 none (control group).
