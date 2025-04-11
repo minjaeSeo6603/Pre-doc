@@ -10,7 +10,7 @@ The knitr package is used to format tables.
 
 Install any missing packages with install.packages("tidyverse") (which includes ggplot2, dplyr, tidyr, etc.) and install.packages("knitr") if needed.
 
-4. If you render code.Rmd, then you can also visualize this in PDF.
+3. If you render code.Rmd, then you can also visualize this in PDF.
 
 ### Overview
 This R Markdown simulates a field experiment to test two Facebook ad strategies to increase COVID-19 vaccine uptake. 
