@@ -1,7 +1,8 @@
 ## How to Run: 
 Open this task.Rmd file in RStudio (or another R Markdown environment) and click the Knit button to generate the output (HTML by default). Alternatively, run rmarkdown::render("filename.Rmd") in R to produce the report. 
 Ensure the required packages are installed before knitting.
-Required Packages: This analysis uses the tidyverse package (for data manipulation and visualization) and the base stats functions for statistical tests. 
+
+'Required Packages': This analysis uses the tidyverse package (for data manipulation and visualization) and the base stats functions for statistical tests. 
 The knitr package is used to format tables. Install any missing packages with install.packages("tidyverse") (which includes ggplot2, dplyr, tidyr, etc.) and install.packages("knitr") if needed.
 
 ## Overview: 
