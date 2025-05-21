@@ -1,0 +1,24 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Regression of Actual on Predicted Hill-Burton Allocations}
+\begin{tabular}{l*{2}{c}}
+\hline\hline
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{Robust SEs}&\multicolumn{1}{c}{Clustered SEs by State}\\
+\hline
+Predicted allocation ($)&       0.939\sym{***}&                     \\
+                    &     (0.126)         &                     \\
+[1em]
+ln\_predicted        &                     &       0.825\sym{***}\\
+                    &                     &     (0.273)         \\
+[1em]
+Constant            &    137999.3         &       2.408         \\
+                    &  (297587.2)         &     (3.912)         \\
+\hline
+R-squared           &       0.664         &       0.627         \\
+Observations        &         768         &         685         \\
+\hline\hline
+\multicolumn{3}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{3}{l}{\footnotesize \sym{*} \(p<0.10\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}
+\end{table}
