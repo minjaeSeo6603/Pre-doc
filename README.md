@@ -50,12 +50,12 @@ allocations.
 ## Repo Contents
 - `Do files\`: Data Cleaning[`tasktrial.do`], Data Analysis[`analysis.do`]
 - `Figures\`: Figures/Tables from `Analysis.do` file
-- `Raw\`: Raw data
+- `data\`: Refer to `Raw\`[Raw Dataset] and `Final\`[`Balanced.dta`,`Final.dta`]
 - `Writeup.pdf`: PDF documentation Write-up file for the analysis.
 
 ## Highlighting Current Results
 Using a newly constructed panel dataset, we find that the Hill-Burton state allocation formula can largely explain the distribution of hospital construction funds across states during 1947–1964.
 States’ predicted shares, derived from population and income data, track closely with actual funding receipts. This indicates that the Hill-Burton program operated rules-based, with few major deviations from the formula. 
-The minimum allotment percentage of 0.33 was frequently binding for high-income states, ensuring each state received at least a small portion of funds, whereas the maximum of 0.75 was never reached, 
+The minimum allotment percentage of 0.33 was frequently binding for high-income states, ensuring each state received at least a small portion of funds, whereas the maximum of 0.75 was never reached. 
 implying no state’s need was high enough to claim an outsized majority of funds under the formula.
 
