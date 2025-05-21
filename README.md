@@ -25,6 +25,7 @@ This R Markdown simulates a field experiment to test two Facebook ad strategies 
 2. The analysis includes summary tables and bar plot visualizations to illustrate differences.
 3. We conduct basic statistical tests (e.g., chi-square test for uptake differences, and an ANOVA or t-test for attitude changes) to evaluate if the observed differences are beyond what might happen by chance.
 
+Refer to folder named `2`
 
 # 2.Investigating the allocation of Hill-Burton funding across states
 
