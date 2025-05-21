@@ -1,5 +1,7 @@
 ## The effectiveness of different Facebook ad campaigns in increasing COVID-19 vaccine uptake
 
+# 1. 
+
 ### How to Run 
 1. Open this code.Rmd file in RStudio (or another R Markdown environment)
 2. Click the Knit button to generate the output (HTML by default). Alternatively, run rmarkdown::render("filename.Rmd") in R to produce the report. 
@@ -25,3 +27,5 @@ This R Markdown simulates a field experiment to test two Facebook ad strategies 
 2. The analysis includes summary tables and bar plot visualizations to illustrate differences.
 3. We conduct basic statistical tests (e.g., chi-square test for uptake differences, and an ANOVA or t-test for attitude changes) to evaluate if the observed differences are beyond what might happen by chance.
 
+## Another Research on Stata
+## This study constructs a panel of 48 U.S. states from 1947–1964 and compares the formula’s predicted state allocations to actual federal Hill-Burton funding.
