@@ -28,4 +28,5 @@ This R Markdown simulates a field experiment to test two Facebook ad strategies 
 3. We conduct basic statistical tests (e.g., chi-square test for uptake differences, and an ANOVA or t-test for attitude changes) to evaluate if the observed differences are beyond what might happen by chance.
 
 ## Another Research on Stata
+#2
 ## This study constructs a panel of 48 U.S. states from 1947–1964 and compares the formula’s predicted state allocations to actual federal Hill-Burton funding.
