@@ -1,6 +1,6 @@
-## The effectiveness of different Facebook ad campaigns in increasing COVID-19 vaccine uptake
-
 # 1. 
+
+## The effectiveness of different Facebook ad campaigns in increasing COVID-19 vaccine uptake
 
 ### How to Run 
 1. Open this code.Rmd file in RStudio (or another R Markdown environment)
@@ -27,6 +27,28 @@ This R Markdown simulates a field experiment to test two Facebook ad strategies 
 2. The analysis includes summary tables and bar plot visualizations to illustrate differences.
 3. We conduct basic statistical tests (e.g., chi-square test for uptake differences, and an ANOVA or t-test for attitude changes) to evaluate if the observed differences are beyond what might happen by chance.
 
-## Another Research on Stata
-#2
-## This study constructs a panel of 48 U.S. states from 1947–1964 and compares the formula’s predicted state allocations to actual federal Hill-Burton funding.
+
+## 2. 
+
+## Investigating the allocation of Hill-Burton funding across states
+
+## Background:
+The Hill-Burton Hospital Survey and Construction Act of 1946 aimed to expand hospital
+infrastructure by providing federal funds to states for hospital construction, conditional on
+states matching funds and providing a share of free care. Each year, Congress appropriated
+funds to Hill-Burton; these were apportioned to states using a formula intended to target need
+by incorporating state population and income levels. According to contemporary accounts,
+the original legislation authorized $75 million annually for five years, later increased to
+$150 million per year in 1949.
+
+### Purpose: 
+1. The project aimed to investigate how hospital construction funds were allocated under
+the Hill-Burton program, a large-scale hospital construction program that started in the 1940s,
+with the goal of analyzing the nature of competition in the hospital industry.
+
+2.  The goal of this task is to investigate whether the non-linearities in the formula
+were binding, and whether the state-level allocation formula was predictive of actual funding
+allocations. 
+`Do files`: Cleaned and analysis do files
+`Figures`: Figures and Plots for the analysis
+`Raw`: Raw data
